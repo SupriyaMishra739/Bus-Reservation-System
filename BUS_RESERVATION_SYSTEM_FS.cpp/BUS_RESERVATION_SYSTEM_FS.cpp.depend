@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657441082 source:c:\android studio app\fs project\bus_reservation_system_fs.cpp\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+	<fstream>
+

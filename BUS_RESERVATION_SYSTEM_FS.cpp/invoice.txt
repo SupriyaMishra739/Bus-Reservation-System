@@ -1,0 +1,19 @@
+                   ******************************************************************
+                                            Express Bus Reservation System
+                                                 Invoice Slip
+                   ******************************************************************
+                              Name               :                           sup
+                              Number telephone   :                  +9123455
+                              Seat quantity      :                            12
+                              Seat Class         :                       Economy
+                              Bus Number         :                           106
+                              Departure Station  :                          Pune
+                              Destination Station:                        Mumbai
+                              Date               :                      30/07/21
+                              Time               :                       9:00 am
+                              Total              :                      Rs360.00
+*******************************************************************
+                                        Thank you for Choosing us
+                                          See you again next time
+            *****************************************************
+*****************Invoice slip has been successfully opened*********
